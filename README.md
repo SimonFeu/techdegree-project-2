@@ -1,5 +1,5 @@
-# techdegree-project-2
-## List Pagination and Filtering
+# List Pagination and Filtering
+## Techdegree Project 2
 
 
 Live Version:  https://simonfeu.github.io/techdegree-project-2/
